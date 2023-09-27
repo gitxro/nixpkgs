@@ -14,7 +14,7 @@ let
     owner = "rvaiya";
     repo = "keyd";
     rev = "v" + version;
-    hash = "sha256-QWr+xog16MmybhQlEWbskYa/dypb9Ld54MOdobTbyMo=";
+    hash = "sha256-QWr+xog16MmybhQlEWbskYa/dypb9Ld54MOdobTbyM1=";
   };
 
   pypkgs = python3.pkgs;
